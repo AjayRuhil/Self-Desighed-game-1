@@ -18,7 +18,7 @@ function preload() {
   enemyImg=loadImage("Images/images.png")
   backgroundImg=loadImage("Images/Background.png")
   soldierBending=loadAnimation("Images/soldierBending(4).png")
-  soldierDying=loadAnimation("Images/SoldierDying(9).png")
+  soldierDying=loadAnimation("Images/soldierDying(9).png")
   background2Img=loadImage("Images/background2.png")
   bulletImg=loadImage("Images/bullets.png")
 soldierStanding=loadImage("Images/soldierBending(1).png")
